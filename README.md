@@ -1,6 +1,7 @@
 ### Hi Developers 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-Salman-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/mwlite/in/salman-sheikh-2ba861198/)] (https://www.linkedin.com/mwlite/in/salman-sheikh-2ba861198/)
+[![Linkedin Badge](https://img.shields.io/badge/-Salman-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/mwlite/in/salman-sheikh-2ba861198/)](https://www.linkedin.com/mwlite/in/salman-sheikh-2ba861198/)
+
 
 [![Website Badge](https://img.shields.io/badge/WebSite-Aakash-green)](https://www.akash)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Aakash-yellow)](https://stackoverflow.com/users/3687251/aakash-)
