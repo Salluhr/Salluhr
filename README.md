@@ -2,6 +2,8 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Salman-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/mwlite/in/salman-sheikh-2ba861198/)](https://www.linkedin.com/mwlite/in/salman-sheikh-2ba861198/)
 
+[![Facebook Badge](https://img.shields.io/badge/-Salman-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/)](https://www.facebook.com/)
+
 
 [![Website Badge](https://img.shields.io/badge/WebSite-Salman-pink)](https://www.salman)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Salman-yellow)](https://stackoverflow.com/users/19645435/salman-sheikh)
