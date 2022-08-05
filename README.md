@@ -5,10 +5,8 @@
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Aakash-yellow)](https://stackoverflow.com/users/3687251/aakash-)
 
 I'm
-Full Stack Solution Architect
-The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python), design (working closely with designers), front-end development (React, Angular9, ReactJs, HTML5, CSS3, Javascript, Responsive, UX), Server Administrator(AWS, GCP, Azure),database(MongoDB,cassendra,Mysql), CI/CD(Docker, kubernetes)
-
-
+Intern Full Stack web Development At Edureka
+I am learning the full stack web development at edureka. I also have basic knowledge of programming languages like C, C++,Java including My SQL. I have also familier with HTML tags. So decided to being a full stack web developer.
 ![Visitor Count](https://profile-counter.glitch.me/aakashdeveloper/count.svg)
 
 <div>
