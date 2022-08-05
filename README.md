@@ -15,7 +15,7 @@ I am learning the full stack web development at edureka. I also have basic knowl
 <div>
   <h4>🏆 Github Profile Trophy</h4>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=aakashdeveloper&column=7"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=Salluhr&column=7"/>
   </a>
 </div>
 
